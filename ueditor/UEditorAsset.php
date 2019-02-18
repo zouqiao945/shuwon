@@ -1,5 +1,5 @@
 <?php
-namespace kucha\ueditor;
+namespace shuwon\ueditor;
 
 
 use yii\web\AssetBundle;
