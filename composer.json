@@ -1,0 +1,40 @@
+{
+  "name": "wyw1994/shuwon",
+  "description": "Yii2 shuwon",
+  "keywords": [
+    "yii2",
+    "shuwon"
+  ],
+  "homepage": "https://github.com/wyw1994/shuwon",
+  "type": "yii2-extension",
+  "license": "MIT",
+  "support": {
+    "source": "https://github.com/wyw1994/shuwon"
+  },
+  "authors": [
+    {
+      "name": "shuwon",
+      "email": "xww@shuwon.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {
+    "php": ">=5.6",
+    "yiisoft/yii2": ">=2.0.6",
+    "phpoffice/phpspreadsheet": "^1.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "shuwon\\images\\": "upload/images/",
+      "shuwon\\audio\\": "upload/audio/",
+      "shuwon\\video\\": "upload/video/",
+      "shuwon\\file\\": "upload/file/",
+      "shuwon\\pic\\": "upload/pic/",
+      "shuwon\\excel\\": "yii2-excel/",
+      "shuwon\\ueditor\\": "ueditor/"
+    }
+  },
+  "config": {
+    "process-timeout": 1800
+  }
+}
