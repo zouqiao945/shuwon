@@ -1,15 +1,15 @@
 {
-  "name": "wyw1994/shuwon",
+  "name": "zouqiao945/shuwon",
   "description": "Yii2 shuwon",
   "keywords": [
     "yii2",
     "shuwon"
   ],
-  "homepage": "https://github.com/wyw1994/shuwon",
+  "homepage": "https://github.com/zouqiao945/shuwon",
   "type": "yii2-extension",
   "license": "MIT",
   "support": {
-    "source": "https://github.com/wyw1994/shuwon"
+    "source": "https://github.com/zouqiao945/shuwon"
   },
   "authors": [
     {
